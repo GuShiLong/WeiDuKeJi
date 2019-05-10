@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         text=findViewById(R.id.text_id);
         text.setText("hello_word");
         text.setText("123中兄次之");
+        text.setText("hello_word1");
     }
 }
